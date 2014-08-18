@@ -1,0 +1,13 @@
+PODS:
+  - MBProgressHUD (0.8)
+  - TSAssetsPickerController (1.2)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 0.8)
+  - TSAssetsPickerController (~> 1.2)
+
+SPEC CHECKSUMS:
+  MBProgressHUD: c356980b0cd097f19acec959b49dca5eb8ec31be
+  TSAssetsPickerController: 5ffe9a8eef12408b78250ba7960154ea1adb72cd
+
+COCOAPODS: 0.33.1
